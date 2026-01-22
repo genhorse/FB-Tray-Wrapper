@@ -56,7 +56,7 @@ The script will compile the resources, link the executable, and move it to:
 
 ---
 
-## 👨�💻 About the Project
+## 👨�💻 About the Project
 This is one of the projects for my portfolio. It highlights:
 * Working with **Microsoft Edge WebView2** SDK.
 * Deep understanding of **Windows Message Loop** and **Tray Notification Area**.
