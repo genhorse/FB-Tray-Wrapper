@@ -1,0 +1,12 @@
+# Dependencies
+deps/
+
+# Build artifacts
+*.obj
+*.res
+*.exe
+dist/
+
+# Visual Studio temp files
+.vs/
+out/
